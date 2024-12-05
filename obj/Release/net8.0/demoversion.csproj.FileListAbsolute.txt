@@ -1,0 +1,7 @@
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.csproj.AssemblyReference.cache
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.AssemblyInfoInputs.cache
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.AssemblyInfo.cs
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.csproj.CoreCompileInputs.cache
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.MvcApplicationPartsAssemblyInfo.cs
+F:\Backend-Data\demoversion\obj\Release\net8.0\demoversion.MvcApplicationPartsAssemblyInfo.cache
